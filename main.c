@@ -6,7 +6,7 @@ int main(void){
 
   int b, c, d;
 
-  b = 2*a;
+  b = 3*a;
   c = pm133_test(a);
   c = b+a;
   return 0;
