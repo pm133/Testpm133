@@ -14,6 +14,9 @@
       },
       {
         "path": "pm133_print.c"
+      },
+      {
+        "path": "pm133Fake.c"
       }
     ],
     "folders": []

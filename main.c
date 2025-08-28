@@ -10,6 +10,6 @@ int main(void){
   c = pm133_test(a);
   c = b+a;
   pm133_print(b);
-  
+  b = pm133Fake();
   return 0;
 }
