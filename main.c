@@ -9,7 +9,7 @@ int main(void){
   b = 3*a;
   c = pm133_test(a);
   c = b+a;
-  pm133_print(c);
+  pm133_print(b);
   
   return 0;
 }
