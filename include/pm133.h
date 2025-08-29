@@ -6,3 +6,4 @@ int pm133Fake(void);
 #define RG 4
 #define RG2 5
 #define RG3 6
+#define RG4 7
